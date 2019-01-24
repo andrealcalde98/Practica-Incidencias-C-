@@ -94,9 +94,17 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <Resource Include="models\mas.png" />
+  </ItemGroup>
   <ItemGroup>
     <Resource Include="models\icono-herramienta.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="models\menos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="models\51401.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
